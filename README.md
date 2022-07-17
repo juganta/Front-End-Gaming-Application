@@ -36,7 +36,13 @@ A new browser window open automatically displaying the app.  If it doesn't, navi
 
 1. Build the production ready optimised code. `npm run build`
 2. Deploy it to `gh-pages` branch by `npm run deploy`
-3. Check the online demo [here](https://manishbisht.github.io/Games-Arena)
+3. ![1](https://user-images.githubusercontent.com/67249221/179407274-ad66660b-2f5e-492e-99ad-138a0d18fa46.png)
+![2](https://user-images.githubusercontent.com/67249221/179407312-b6d7e358-98ea-4413-946a-541ef0f306bd.png)
+![3](https://user-images.githubusercontent.com/67249221/179407317-6d6cc719-f9f7-46d2-9127-9fed07ff58a9.png)
+![4](https://user-images.githubusercontent.com/67249221/179407321-873938e2-70df-42e0-8473-c6f37c13efdc.png)
+![5](https://user-images.githubusercontent.com/67249221/179407326-824f68b1-21ea-4e7b-9124-ef0fddffee71.png)
+![6](https://user-images.githubusercontent.com/67249221/179407330-e5cbf8fb-5611-4bcf-be6c-39228c01094c.png)
+![7](https://user-images.githubusercontent.com/67249221/179407334-11a57c5f-2e75-4833-9b16-b4fbdf95ef94.png)
 
 ## Screenshots
 Project Home Page
